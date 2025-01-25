@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vaishu2706
 - 👀 I’m interested in learning technical skills
 - 🌱 I’m currently learning advanced python
-  
+  and also gen ai
+  <br>
 - 📫 How to reach me vaishnavipp2706@gmail.com
 
 <!---
